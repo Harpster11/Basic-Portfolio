@@ -1,0 +1,21 @@
+.banner-head {
+    color: navy;
+    font-size: 64pt
+
+}
+
+.home-page {
+    color: cornflowerblue;
+    font-weight: bolder;
+    font-size: 24pt;
+}
+body {
+    background-image: image(assets/images/Floral-Banner.jpg);
+
+    
+}
+.form {
+    width: 50%;
+    float: center;
+
+}
